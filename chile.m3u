@@ -1,76 +1,124 @@
 #EXTM3U
 
-# --- NACIONALES ---
-#EXTINF:-1 group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Emblema_del_Canal_13_Chile_%282018-2025%29.svg/640px-Emblema_del_Canal_13_Chile_%282018-2025%29.svg.png", Canal 13
+#EXTINF:-1 tvg-name="Canal 13" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Emblema_del_Canal_13_Chile_%282018-2025%29.svg/640px-Emblema_del_Canal_13_Chile_%282018-2025%29.svg.png",Canal 13
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canal_13_Logo.svg/640px-Canal_13_Logo.svg.png", Canal 13 GO
+#EXTINF:-1 tvg-name="Canal 13 GO" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canal_13_Logo.svg/640px-Canal_13_Logo.svg.png",Canal 13 GO
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logotipo_de_Mega_%282015-2020%29.svg/640px-Logotipo_de_Mega_%282015-2020%29.svg.png", Mega
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/640px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png", TVN
-https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/640px-La_Red_Logotipo_2021.svg.png", La Red
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/640px-TV%2B_%282018%29.png", TV+
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
-
-# --- NOTICIAS ---
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/T13_En_Vivo_2023.png/640px-T13_En_Vivo_2023.png", T13 en vivo
+#EXTINF:-1 tvg-name="T13 en vivo" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/T13_En_Vivo_2023.png/640px-T13_En_Vivo_2023.png",T13 en vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CHV_Noticias_2018.png/640px-CHV_Noticias_2018.png", CHV Noticias
-https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Logo_Biob%C3%ADo_Chile.png/640px-Logo_Biob%C3%ADo_Chile.png", Bio Bio TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
-
-# --- ENTRETENIMIENTO C13 ---
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/640px-Canal_13_2025.svg.png", 13 Cultura
+#EXTINF:-1 tvg-name="13 Cultura" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/640px-Canal_13_2025.svg.png",13 Cultura
 https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/640px-Canal_13_2025.svg.png", 13 Cocina
+#EXTINF:-1 tvg-name="13 Cocina" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/640px-Canal_13_2025.svg.png",13 Cocina
 https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/640px-Canal_13_2025.svg.png", 13 Pop
+#EXTINF:-1 tvg-name="13 Pop" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/640px-Canal_13_2025.svg.png",13 Pop
 https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/640px-Canal_13_2025.svg.png", 13 Teleseries
+#EXTINF:-1 tvg-name="13 Teleseries" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/640px-Canal_13_2025.svg.png",13 Teleseries
 https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/640px-Canal_13_2025.svg.png", 13 Realities
+#EXTINF:-1 tvg-name="13 Festival" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/640px-Canal_13_2025.svg.png",13 Festival
+https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="13 Realities" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/640px-Canal_13_2025.svg.png",13 Realities
 https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
-
-# --- CULTURAL / EDUCATIVO ---
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/640px-Logotipo_de_TV_Chile.svg.png", TV Chile
+#EXTINF:-1 tvg-name="13 Viajes" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/640px-Canal_13_2025.svg.png",13 Viajes
+https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="13 Internacional" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/640px-Canal_13_2025.svg.png",13 Internacional
+https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="CHV Noticias" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CHV_Noticias_2018.png/640px-CHV_Noticias_2018.png",CHV Noticias
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Mega" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logotipo_de_Mega_%282015-2020%29.svg/640px-Logotipo_de_Mega_%282015-2020%29.svg.png",Mega
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="TVN" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/640px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png",TVN
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/37
+#EXTINF:-1 tvg-name="NTV" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logotipo_de_NTV_Chile.png/640px-Logotipo_de_NTV_Chile.png",NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="TV Chile" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/640px-Logotipo_de_TV_Chile.svg.png",TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logotipo_de_TVN3.png/640px-Logotipo_de_TVN3.png", TVN3
+#EXTINF:-1 tvg-name="24 Horas" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Canal_24_Horas_2023.png",24 Horas
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="TVN3" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logotipo_de_TVN3.png/640px-Logotipo_de_TVN3.png",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png/640px-Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png", UCV 1
+#EXTINF:-1 tvg-name="La Red" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/640px-La_Red_Logotipo_2021.svg.png",La Red
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="TV+" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/640px-TV%2B_%282018%29.png",TV+
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Bio Bio TV" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Logo_Biob%C3%ADo_Chile.png/640px-Logo_Biob%C3%ADo_Chile.png",Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="U de Chile TV" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/UChile_TV_logo_2021.png/640px-UChile_TV_logo_2021.png",U de Chile TV
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="UCV 1" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png/640px-Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png",UCV 1
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-
-# --- REGIONALES ---
-#EXTINF:-1 group-title="Regionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Logo_de_Arica_TV.png/640px-Logo_de_Arica_TV.png", Arica TV
+#EXTINF:-1 tvg-name="UCV 2" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png/640px-Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png",UCV 2
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Arica TV" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Logo_de_Arica_TV.png/640px-Logo_de_Arica_TV.png",Arica TV
 https://envivo.arica.tv/hls/Live2025AricaTV.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Regionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Escudo_de_Iquique.svg/640px-Escudo_de_Iquique.svg.png", Iquique TV
+#EXTINF:-1 tvg-name="Iquique TV" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Escudo_de_Iquique.svg/640px-Escudo_de_Iquique.svg.png",Iquique TV
 https://stream.skarnetchile.com:19360/iquiquetv-hd/iquiquetv-hd.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Regionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Coat_of_Arms_of_Antofagasta.svg/640px-Coat_of_Arms_of_Antofagasta.svg.png", Antofagasta TV
+#EXTINF:-1 tvg-name="Antofagasta TV" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Coat_of_Arms_of_Antofagasta.svg/640px-Coat_of_Arms_of_Antofagasta.svg.png",Antofagasta TV
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Regionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Coat_of_Arms_of_Concepci%C3%B3n_%28Chile%29.svg/640px-Coat_of_Arms_of_Concepci%C3%B3n_%28Chile%29.svg.png", Concepción TV
+#EXTINF:-1 tvg-name="Concepción TV" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Coat_of_Arms_of_Concepci%C3%B3n_%28Chile%29.svg/640px-Coat_of_Arms_of_Concepci%C3%B3n_%28Chile%29.svg.png",Concepción TV
 https://stream.blserver.cl/hls/ctv/index.m3u8?PlaylistM3UCL
-
-# --- MÚSICA Y OTROS ---
-#EXTINF:-1 group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Walk_of_Fame_Category_Broadcast_Television.png/640px-Walk_of_Fame_Category_Broadcast_Television.png", Carolina TV
-https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Hípica", Teletrak
+#EXTINF:-1 tvg-name="Teletrak" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Teletrak_TV_logo.svg/640px-Teletrak_TV_logo.svg.png",Teletrak
 https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
+#EXTINF:-1 tvg-name="Carolina TV 1" group-title="Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Walk_of_Fame_Category_Broadcast_Television.png/640px-Walk_of_Fame_Category_Broadcast_Television.png",Carolina TV 1
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="HBO" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/640px-HBO_logo.svg.png",HBO
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/139
+#EXTINF:-1 tvg-name="HBO 2" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/HBO_2_logo.png/640px-HBO_2_logo.png",HBO 2
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/131
+#EXTINF:-1 tvg-name="HBO Family" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Hbo_family2.png",HBO Family
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/135
+#EXTINF:-1 tvg-name="HBO Mundi" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HBO_Mundi.svg/640px-HBO_Mundi.svg.png",HBO Mundi
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/142
+#EXTINF:-1 tvg-name="HBO Plus" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/HBO_Plus_2019.png/640px-HBO_Plus_2019.png",HBO Plus
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/144
+#EXTINF:-1 tvg-name="HBO Pop" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Pop.svg/640px-HBO_Pop.svg.png",HBO Pop
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/147
+#EXTINF:-1 tvg-name="HBO Signature" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HBO_Signature.svg/640px-HBO_Signature.svg.png",HBO Signature
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/152
+#EXTINF:-1 tvg-name="HBO Xtreme" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO_Xtreme.svg/640px-HBO_Xtreme.svg.png",HBO Xtreme
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/149
+#EXTINF:-1 tvg-name="TNT" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TNT_logo_%282016%29.svg/640px-TNT_logo_%282016%29.svg.png",TNT
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/167
+#EXTINF:-1 tvg-name="Space" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Canal_Space.PNG",Space
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/202
+#EXTINF:-1 tvg-name="Cinecanal" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinecanal_logo.svg/640px-Cinecanal_logo.svg.png",Cinecanal
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/113
+#EXTINF:-1 tvg-name="A&E" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png",A&E
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/100
+#EXTINF:-1 tvg-name="AMC" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/AMC_logo.svg/640px-AMC_logo.svg.png",AMC
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/104
+#EXTINF:-1 tvg-name="AXN" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_logo.svg/640px-AXN_logo.svg.png",AXN
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/107
+#EXTINF:-1 tvg-name="Cine Latino" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cine_Latino_logo.svg/640px-Cine_Latino_logo.svg.png",Cine Latino
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/110
+#EXTINF:-1 tvg-name="Cinemax" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cinemax_logo_2016.svg/640px-Cinemax_logo_2016.svg.png",Cinemax
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/118
+#EXTINF:-1 tvg-name="DHE" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/DHE_DHE.png/640px-DHE_DHE.png",DHE
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/121
+#EXTINF:-1 tvg-name="FX" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/FX_logo.svg/640px-FX_logo.svg.png",FX
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/125
+#EXTINF:-1 tvg-name="De Película" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DPel%C3%ADcula_2021.svg/640px-DPel%C3%ADcula_2021.svg.png",De Película
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/181
+#EXTINF:-1 tvg-name="De Película Clásico" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/De_Pel%C3%ADcula_Cl%C3%A1sico.png",De Película Clásico
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/156
+#EXTINF:-1 tvg-name="Studio Universal" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Studio_universal.png/640px-Studio_universal.png",Studio Universal
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/219
+#EXTINF:-1 tvg-name="Universal Channel" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Universal_TV_logo_2018.svg/640px-Universal_TV_logo_2018.svg.png",Universal Channel
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/232
+#EXTINF:-1 tvg-name="TCM" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Turner_Classic_Movies_logo.svg/640px-Turner_Classic_Movies_logo.svg.png",TCM
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/230
+#EXTINF:-1 tvg-name="Warner Channel" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Warner_Channel_logo.svg/640px-Warner_Channel_logo.svg.png",Warner Channel
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/238
+#EXTINF:-1 tvg-name="TNT Series" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_logo.svg/640px-TNT_Series_logo.svg.png",TNT Series
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/170
+#EXTINF:-1 tvg-name="A3 Series" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Atreseries_logo.svg/640px-Atreseries_logo.svg.png",A3 Series
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/175
+#EXTINF:-1 tvg-name="Europa Europa" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Europa_Europa_logo_2003.png",Europa Europa
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/187
+#EXTINF:-1 tvg-name="Sony Channel" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sony_Channel_logo.svg/640px-Sony_Channel_logo.svg.png",Sony Channel
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/199
+#EXTINF:-1 tvg-name="Comedy Central" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Comedy_Central_2018_logo.svg/640px-Comedy_Central_2018_logo.svg.png",Comedy Central
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/243
+#EXTINF:-1 tvg-name="USA Channel" group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/USA_Network_logo.svg/640px-USA_Network_logo.svg.png",USA Channel
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/222
+#EXTINF:-1 tvg-name="Star Channel" group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Star_Channel_logo.svg/640px-Star_Channel_logo.svg.png",Star Channel
+http://ultrapremium.cloud:8080/974355413tv/n7hytvc/160
