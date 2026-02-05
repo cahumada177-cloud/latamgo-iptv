@@ -1,6 +1,7 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="http://latinostream.xyz:80/images/J4PsdfDHv8-MnestzVox1i8knDSRnLa9S6pTekz-9I5gESbUihN_zNplwpVqMS1jNcghlLUq2dZWKTEyMQh46A08p1dVsXBaMZ6SHMORBf7sJ_vj2G8ZjfEJvJIv-8hYFcX1i_zx_t7L3euldTtBW2Jswpae6sv3afzh2vfKfRA.png",TVN (HD)
-http://iptvglobal.site:80/play/0io4tIp82R4ViesTnSFljcst6YYOk2yDvwHFMTxHGO8KCyd3NBeYXoJibJi4aOAg/m3u8
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9931
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYDT0bsh/Emblema-del-Canal-13-Chile.png",CANAL 13 (HD)
 http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/50
@@ -18,19 +19,19 @@ http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9921
 http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/62
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SUSMLk6Nd9s/XajptfrmHrI/AAAAAAAAASc/lEEtobK_kGkKh2qqZO3G-eguobRQWKUJwCLcBGAsYHQ/s200/12.png",LA RED (HD)
-http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9916
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9915
 
 #EXTINF:-1 tvg-logo="http://onerestream.us:80/images/YVzokl53sskdS9JK6lpSeG3xHz_176brD0Dv1LCleG2JNcdAYxFHVeVbmfYjkL2A6JnT109OezsJhp1x_Y-FUOvSx8eo8P_mvy35ccSwip5EmEgZqFs0mgX156vW8Jkr_A80D44MX7SpTI8IxrjbEw.png",TV CHILE (HD)
-http://iptvglobal.site:80/play/0io4tIp82R4ViesTnSFljTHmniW9IMwte0Y6iGgbD0568tNLJzZg3WpF6K3-4tva/m3u8
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/56871
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CHV_Noticias_2018.png/640px-CHV_Noticias_2018.png",CHILEVISION NOTICIAS (HD)
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://onerestream.us:80/images/YVzokl53sskdS9JK6lpSeG3xHz_176brD0Dv1LCleG2JNcdAYxFHVeVbmfYjkL2A6JnT109OezsJhp1x_Y-FUOvSx8eo8P_mvy35ccSwip5EmEgZqFs0mgX156vW8Jkr_A80D44MX7SpTI8IxrjbEw.png",CNN CHILE (HD)
-http://iptvglobal.site:80/play/0io4tIp82R4ViesTnSFljcEwmOHx888LPq7TU1OzXUjrQgz5PdRbNAMuTSKXWWZx/m3u8
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9903
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpPKh09/24-horas.png",24 HORAS (HD)
-http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/78
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/84887
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqQQP9zH/Zona-Latina-2021.png",ZONA LATINA (HD)
 http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/75
@@ -75,7 +76,7 @@ https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://onerestream.us:80/images/YVzokl53sskdS9JK6lpSeG3xHz_176brD0Dv1LCleG2JNcdAYxFHVeVbmfYjkL2A6JnT109OezsJhp1x_Y-FUOvSx8eo8P_mvy35ccSwip5EmEgZqFs0mgX156vW8Jkr_A80D44MX7SpTI8IxrjbEw.png",T13 (HD)
-http://iptvglobal.site:80/play/0io4tIp82R4ViesTnSFljXiSYnWnTHL0cXXwOQhPWzXtvxcKu6xzKW55jZqn9D-j/m3u8
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/83
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LJ8cFGZ/t13-radio.png",T13 RADIO (HD)
 http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/85
@@ -106,3 +107,60 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/UCV_Televisi%C3%B3n_logo_%282018%29.png/640px-UCV_Televisi%C3%B3n_logo_%282018%29.png",UCV 2 (HD)
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DpbYtnM/logo2.png",TELETRAK (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/69
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png",TNT SPORT PREMIUM OPC 2 (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9886
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png",TNT SPORT PREMIUM (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/112994
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png",CHI-TNT Sports 2 (L)(1080)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9925
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png",TNT SPORT BASICO (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/87176
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png",TNT SPORT 3 (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9929
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CDO (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/84884
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CDO PREMIUM (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9897
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png",DIRECTV 2
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9904
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png",CLARO SPORT (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/10151
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61tSA6a.png",CLARO SPORT 2 (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/10152
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",ESPN (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9905
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",ESPN 2 (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9906
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png",ESPN 3 (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/512
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png",ESPN 4 (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/517
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png",ESPN 5 (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/526
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png",ESPN 6 (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/536
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png",ESPN 7 (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/530
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png",ESPN PREMIUM (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/87175
