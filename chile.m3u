@@ -120,9 +120,6 @@ http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9929
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CDO PREMIUM (HD)
 http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9897
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png",DIRECTV 2
-http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9904
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61tSA6a.png",CLARO SPORT 2 (HD)
 http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9564
 
@@ -150,10 +147,10 @@ http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9543
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png",ESPN PREMIUM (HD)
 http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/87175
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png",DIRECTV PLUS (HD)
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png",DIRECTV SPORT (HD)
 http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9561
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png",DIRECTV 2 (HD)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png",DIRECTV SPORT 2 (HD)
 http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9564
 
 #EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/tntp.png",TNT (HD)
@@ -174,7 +171,17 @@ http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9564
 #EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/studiouniversalp.png",STUDIO UNIVERSAL (HD)
   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54461
 
+#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/pe_golden_l.png",GOLDEN (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/65216
 
+#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/pe_golden-edge_l.png",GOLDEN EDGE (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/65218
 
+#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Cine/cine_golden_plus.png",GOLDEN PLUS (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/65221
 
+#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/co_golden-premier-hd_l.png",GOLDEN PREMIER (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/65223
 
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/fxhdp.png",FX (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54444
