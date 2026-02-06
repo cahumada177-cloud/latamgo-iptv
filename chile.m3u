@@ -111,23 +111,11 @@ https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DpbYtnM/logo2.png",TELETRAK (HD)
 http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/69
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png",TNT SPORT PREMIUM OPC 2 (HD)
-http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9886
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYcGLqsG/TNT-Sports-Premium-Chile.png",TNT SPORT PREMIUM (HD)
-http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/112994
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png",CHI-TNT Sports 2 (L)(1080)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png",TNT SPORT PREMIUM (HD)
 http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9925
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png",TNT SPORT BASICO (HD)
-http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/87176
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg45qdrg/Tn-T-Sports-Chile.png",TNT SPORT 3 (HD)
 http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9929
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CDO (HD)
-http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/84884
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CDO PREMIUM (HD)
 http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9897
@@ -135,11 +123,8 @@ http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9897
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png",DIRECTV 2
 http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9904
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png",CLARO SPORT (HD)
-http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/10151
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61tSA6a.png",CLARO SPORT 2 (HD)
-http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/10152
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9564
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",ESPN (HD)
 http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9905
@@ -160,7 +145,36 @@ http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/526
 http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/536
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png",ESPN 7 (HD)
-http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/530
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9543
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png",ESPN PREMIUM (HD)
 http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/87175
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png",DIRECTV PLUS (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9561
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png",DIRECTV 2 (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9564
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/tntp.png",TNT (HD)
+ http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54449
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/spacep.png",SPACE (HD)
+ http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54470
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJRwqFR9/cinemax.png",CINEMAX (HD)
+  http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54366
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/warnerp.png",WARNER CHANNEL (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54452
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/cinecanalp.png",CINECANAL (HD)
+  http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54468
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/studiouniversalp.png",STUDIO UNIVERSAL (HD)
+  http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54461
+
+
+
+
+
