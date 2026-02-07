@@ -344,3 +344,28 @@ http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9564
 
 #EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/htvp.png", HTV (HD)
    http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54503
+
+
+# --- 24/7 ---
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:El_Chavo_(simple_logo).svg", EL CHAVO DEL 8
+   http://ultrapremium.cloud:8080/79953964/sncd854j/250478
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:IPTV.png", DR HAUSE
+   http://ultrapremium.cloud:8080/79953964/sncd854j/250477
+
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Alf-1.jpg", ALF
+   http://ultrapremium.cloud:8080/79953964/sncd854j/250480
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Yo_soy_Betty,_la_fea._-_Logotype.jpg", YO SOY BETTY LA FEA PARTE 1
+   http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/166967
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Yo_soy_Betty,_la_fea._-_Logotype.jpg", YO SOY BETTY LA FEA PARTE 2
+   http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/166968
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Yo_soy_Betty,_la_fea._-_Logotype.jpg", YO SOY BETTY LA FEA PARTE 3
+   http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/166969
+
+
+
