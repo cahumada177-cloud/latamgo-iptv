@@ -108,6 +108,33 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/UCV_Televisi%C3%B3n_logo_%282018%29.png/640px-UCV_Televisi%C3%B3n_logo_%282018%29.png",UCV 2 (HD)
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-08UXr5rCW5A/XajpxIJ8MZI/AAAAAAAAATI/wUGS1sufclQdgaVE0-Smam8E_LHIwD6RQCLcBGAsYHQ/s200/7.png",ETC (HD)
+http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9911
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/tooncastp.png",TOONCAST (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54425
+
+#EXTINF:-1 tvg-logo=" http://puntoz.xyz/LOGOS/nick_jrp.png",NICK JR (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54428
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/cartoonnetworkp.png",CARTOON NETWORK (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54424
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/cartoonitob.png",CARTOONITO (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54426
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zBzWDM9/dreamworks.png",DREAMWORKS (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54436
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxdZpxXD/nickelodeon.png",NICKELODEON (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54420
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/discoverykidsp.png",DISCOVERY KIDS (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54429
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/ntv.png",NTV (HD)
+http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54433
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DpbYtnM/logo2.png",TELETRAK (HD)
 http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/69
 
@@ -184,16 +211,16 @@ http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9564
    http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54444
 
 #EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/tcmp.png",TCM (HD)
-   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54476
+   http://ultrapremium.cloud:8080/79953964/sncd854j/59423
 
 #EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/amcp.png", AMC (HD)
-   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54469
+   http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9619
 
-#EXTINF:-1 tvg-logo="https://logos.xbots.com.mx/79.png", TRU TV (HD)
-   http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9852
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:A%26E_Network_(Australia)_logo.svg", A&E (HD)
+   http://ultrapremium.cloud:8080/974355413tv/n7hytvc/100
 
 #EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/star.channelp.png", STAR CHANNEL (HD)
-   http://ultrapremium.cloud:8080/79953964/sncd854j/54441
+   http://ultrapremium.cloud:8080/79953964/sncd854j/59551
 
 #EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/universalp.png", UNIVERSAL TV (HD)
    http://ultrapremium.cloud:8080/79953964/sncd854j/54462
@@ -201,7 +228,7 @@ http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9564
 #EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/axnp.png", AXN (HD)
    http://ultrapremium.cloud:8080/79953964/sncd854j/54448
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7g9XVbC.jpg", SONY (HD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7g9XVbC.jpg", SONY CHANNEL (HD)
    http://ultrapremium.cloud:8080/79953964/sncd854j/59483
 
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_logo.svg", HBO (HD)
@@ -233,3 +260,36 @@ http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9564
 
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:De_Pel%C3%ADcula_Cl%C3%A1sico.png", DE PELICULA CLASICO (HD)
    http://ultrapremium.cloud:8080/974355413tv/n7hytvc/182
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png", UNIVERSAL REALITY (HD)
+   http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9772
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/universalcinamaB.png", UNIVERSAL CINEMA (HD)
+   http://ultrapremium.cloud:8080/79953964/sncd854j/54464
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/universalcomedyB.png", UNIVERSAL COMEDY (HD)
+   http://ultrapremium.cloud:8080/79953964/sncd854j/54465
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/universalpremierB.png", UNIVERSAL PREMIERE (HD)
+   http://ultrapremium.cloud:8080/79953964/sncd854j/54463
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/universalcrimeB.png", UNIVERSAL CRIME (HD)
+   http://ultrapremium.cloud:8080/79953964/sncd854j/54466
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65RvjyDm/comedy.png", COMEDY CENTRAL (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54440
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png", TNT SERIES (HD)
+   http://ultrapremium.cloud:8080/79953964/sncd854j/24853
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png", TNT NOVELAS (HD)
+   http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9737
+
+
+
+
+
+
+
+
+
