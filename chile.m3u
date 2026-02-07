@@ -172,16 +172,67 @@ http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9564
   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54461
 
 #EXTINF:-1 tvg-logo="http://209.126.82.213/logos/pe_golden_l.png",GOLDEN (HD)
-   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/65216
+   http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9657
 
 #EXTINF:-1 tvg-logo="http://209.126.82.213/logos/pe_golden-edge_l.png",GOLDEN EDGE (HD)
    http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/65218
 
 #EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Cine/cine_golden_plus.png",GOLDEN PLUS (HD)
-   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/65221
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/65219
 
 #EXTINF:-1 tvg-logo="http://209.126.82.213/logos/co_golden-premier-hd_l.png",GOLDEN PREMIER (HD)
    http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/65223
 
 #EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/fxhdp.png",FX (HD)
    http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54444
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/tcmp.png",TCM (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54476
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/amcp.png", AMC (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54469
+
+#EXTINF:-1 tvg-logo="https://logos.xbots.com.mx/79.png", TRU TV (HD)
+   http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9852
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/star.channelp.png", STAR CHANNEL (HD)
+   http://ultrapremium.cloud:8080/79953964/sncd854j/54441
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/universalp.png", UNIVERSAL TV (HD)
+   http://ultrapremium.cloud:8080/79953964/sncd854j/54462
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/axnp.png", AXN (HD)
+   http://ultrapremium.cloud:8080/79953964/sncd854j/54448
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7g9XVbC.jpg", SONY (HD)
+   http://ultrapremium.cloud:8080/79953964/sncd854j/59483
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_logo.svg", HBO (HD)
+   http://ultrapremium.cloud:8080/974355413tv/n7hytvc/139
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_2_logo_alt.png", HBO 2 (HD)
+   http://ultrapremium.cloud:8080/974355413tv/n7hytvc/131
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Hbo_family2.png", HBO FAMILY (HD)
+   http://ultrapremium.cloud:8080/974355413tv/n7hytvc/135
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_Mundi.svg", HBO MUNDI (HD)
+   http://ultrapremium.cloud:8080/974355413tv/n7hytvc/142
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_Plus.png", HBO PLUS (HD)
+   http://ultrapremium.cloud:8080/974355413tv/n7hytvc/144
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_Pop.svg", HBO POP (HD)
+   http://ultrapremium.cloud:8080/974355413tv/n7hytvc/147
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_Signature.svg", HBO SIGNATURE (HD)
+   http://ultrapremium.cloud:8080/974355413tv/n7hytvc/152
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_Xtreme.svg", HBO XTREME (HD)
+   http://ultrapremium.cloud:8080/974355413tv/n7hytvc/158
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:DPel%C3%ADcula_2021_(2).svg", DE PELICULA (HD)
+   http://ultrapremium.cloud:8080/974355413tv/n7hytvc/181
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:De_Pel%C3%ADcula_Cl%C3%A1sico.png", DE PELICULA CLASICO (HD)
+   http://ultrapremium.cloud:8080/974355413tv/n7hytvc/182
