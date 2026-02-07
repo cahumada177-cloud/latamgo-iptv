@@ -282,11 +282,65 @@ http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9564
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png", TNT NOVELAS (HD)
    http://tv.zapping.life:8080/vasqueznestor1/cdKvFeY4RK/9737
 
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/cnnespanolp.png", CNN ESPAÑOL (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54399
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnHWrd99/cnni.png", CNN INTERNACIONAL (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54437
 
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/telemundoinp.png", TELEMUNDO INTERNACIONAL (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54523
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpZLhVRv/fr24es.png", FRANCE 24 (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54439
 
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/Antena_3b.png", ANTENA 3 (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54525
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2LpXV2z/bbcnews.png", BCC WORLD NEW (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54438
 
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/eentertainmnentp.png", E! ENTERNAINMENT (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54508
 
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/elgourmetp.png", EL GOURMET (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54498
 
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/historyp.png", HISTORY (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54481
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/h2p.png", HISTORY 2 (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54482
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/natgeop.png",  NATGEO (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54483
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/animalplanetp.png", ANIMAL PLANET (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54485
+
+#EXTINF:-1 tvg-logo="http://puntoz.xyz/LOGOS/discoveryp.png", DISCOVERY CHANNEL (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54486
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/discovery.turbop.png", DISCOVERY TURBO (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54494
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/discovery.investigationp.png", DISCOVERY ID (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54492
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/discovery.tlc.png", TLC (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54491
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/discovery.worldp.png", DISCOVERY WORLD (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54489
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/discovery.science.png", DISCOVERY SCIENCE (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54493
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/discovery.theaterp.png", DISCOVERY THEATER (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54490
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/discovery.homeandhealthp.png", DISCOVERY H&H (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54487
+
+#EXTINF:-1 tvg-logo="http://puntoz.net/LOGOS/htvp.png", HTV (HD)
+   http://ultrapremium.cloud:8080/79267869/VOhUMNMF8DTk/54503
